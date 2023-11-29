@@ -1,3 +1,48 @@
 body { 
     background-color: black;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
 }
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    font-family: century;
+}
+
+.logo
+{
+    background-color: transparent;
+    padding: 0px 20px;
+    border:  1px solid transparent;
+    position:absolute;
+    top: 10px;
+    left: 10px;
+    font-weight: 900;
+}
+
+ul
+{
+   list-style: none;
+   float: right;
+   display: flex;
+   margin-top: 30px;
+}
+
+ul li a
+{
+  text-decoration: none;
+  color: azure;
+  padding: 130px 130px;
+  text-transform: none;
+  border: 0.5px ;
+  border-top: color(#fff);
+}
+
+.image
+{
+  border-radius: 100px;
+}
+
