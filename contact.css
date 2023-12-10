@@ -27,6 +27,7 @@ body {
 { 
    background-color: #333;
    color: black;
+   
 }
 
 .navbar-links 
@@ -53,6 +54,13 @@ body {
   font-weight: bold;
   text-shadow: 2px 2px 4px #000000;
   color: white;
+}
+
+.image
+{
+    width: 100px;
+    height: 100px;
+  border-radius: 100px;
 }
 
 
