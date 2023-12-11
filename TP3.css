@@ -9,7 +9,7 @@ body {
 .navbar
 {
    display: flex;
-   justify-content: start;
+   justify-content: space-around;
    align-items: center;
    background-color: #292929;
    padding: 10px;
@@ -24,17 +24,7 @@ body {
 
 }
 
-.navbar a:hover
-{ 
-   background-color: #292929;
-   color: white;
-}
 
-.navbar-links 
-{ 
-  display: flex;
-  margin-left: auto;
-}
 
 .image-container
 {  

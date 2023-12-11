@@ -8,9 +8,9 @@ body {
 .navbar
 {
    display: flex;
-   justify-content: start;
+   justify-content: space-around;
    align-items: center;
-   background-color: #333;
+   background-color: #292929;
    padding: 10px;
 }
 
@@ -21,19 +21,6 @@ body {
   padding: 8px 16px;
   border-radius: 10px 30px 0px 90px;
 
-}
-
-.navbar a:hover
-{ 
-   background-color: #333;
-   color: black;
-   
-}
-
-.navbar-links 
-{ 
-  display: flex;
-  margin-left: auto;
 }
 
 .image-container
