@@ -35,16 +35,20 @@ body {
   color:white
 
 }
-
 .texte-image
+{  
+  background-color: rgba(0, 0, 0, .5)
+  
+}
+.box
 {  
   position:absolute;
   top: 40%;
-  left: 50%;
-  transform: translate(-50%, -10%);
-  font-size: 20px;
+  left: 20%;
+  transform: translate(-12%, -17%);
+  font-size: 25px;
   font-weight: bold;
-  text-shadow: 2px 2px 4px white;
-  color: black;
+  text-shadow: 2px 2px 4px black;
+  color: white;
 }
 
