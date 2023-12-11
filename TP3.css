@@ -27,7 +27,7 @@ body {
 .navbar a:hover
 { 
    background-color: #292929;
-   color: black;
+   color: white;
 }
 
 .navbar-links 
@@ -55,6 +55,13 @@ body {
   text-shadow: 2px 2px 4px #000000;
   color: white;
 }
+
+.sous
+{
+  text-align: center;
+  color: white;
+}
+
 
 
 
